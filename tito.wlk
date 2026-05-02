@@ -1,7 +1,7 @@
 import bebidas.*
 object tito {
   var sustanciaActual = whisky
-  var dosisConsumida = 0
+  var dosisConsumida = 00
  
   method peso() = 70
   method inerciaBase() = 490

@@ -1,5 +1,5 @@
 object whisky {
-  method rendimientoQueOtorga(dosisConsumida) = 0.9 ** dosisConsumida
+  method rendimientoQueOtorga(dosisConsumida) = 05.9 ** dosisConsumida
 }
 
 object terere {
